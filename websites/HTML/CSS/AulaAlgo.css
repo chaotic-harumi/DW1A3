@@ -14,7 +14,7 @@ main{
 }
 
 body{
-    background-image:linear-gradient(to right,#fda994,#fd94c5);;
+    background-image:#f3e2e2;
 }
 
 .texto{
@@ -25,7 +25,7 @@ body{
 
 h1{
     color: #68213c;
-    background-image:linear-gradient(to right,#ffc2b4,#ffb5d6);;
+    background-image:linear-gradient(to right,#ffc2b4,#ffb5d6);
     font-family: 'Impact', sans-serif;
     text-align: center;
     padding-bottom: 0.50em;
@@ -48,7 +48,7 @@ h3{
   
 p{
     color: #000000;
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Trebuchet MS', serif;
     font-size: 1.20em;
     line-height: 1.6em;
     text-align: center;
@@ -96,7 +96,7 @@ footer{
 #menu ul {
     padding:0px;
     margin:0px;
-    background-color:#EDEDED;
+    background-color:rgb(255, 191, 191);
     list-style:none;
 }
 
@@ -107,7 +107,7 @@ footer{
     display: inline-block;
 
     /* visual do link */
-    background-color:#EDEDED;
+    background-color:rgb(255, 212, 223);
     color: rgb(73, 14, 14);
     text-decoration: none;
     border-bottom:3px solid #EDEDED;
