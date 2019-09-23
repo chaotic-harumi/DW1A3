@@ -96,7 +96,7 @@ footer{
 #menu ul {
     padding:0px;
     margin:0px;
-    background-color:rgb(255, 191, 191);
+    background-color:rgb(255, 131, 131);
     list-style:none;
 }
 
@@ -107,7 +107,7 @@ footer{
     display: inline-block;
 
     /* visual do link */
-    background-color:rgb(255, 212, 223);
+    background-color:rgb(255, 131, 131);
     color: rgb(73, 14, 14);
     text-decoration: none;
     border-bottom:3px solid #EDEDED;
