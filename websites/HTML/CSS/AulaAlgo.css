@@ -14,7 +14,7 @@ main{
 }
 
 body{
-    background-color:#f3e2e2;
+    background-color: #f3e2e2;
 }
 
 .texto{
@@ -61,37 +61,6 @@ p{
 .menu{
     height: 2.5em;
 }
-
-footer{
-    grid-area: ft;
-    text-align: center;
-}
-
-.fa {
-   padding: 20px;
-   font-size: 30px;
-   width: 50px;
-   text-align: center;
-   text-decoration: none;
-   border-radius: 50%;
-}
- 
-/* Add a hover effect if you want */
-.fa:hover {
-   opacity: 0.7;
-}
-
-/* Facebook */
-.fa-facebook {
-   background: #3B5998;
-   color: white;
-}
-
-/* Twitter */
-.fa-twitter {
-  background: #55ACEE;
-  color: white;
-} 
 
 #menu ul {
     padding:0px;
